@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MayankArambhi/MayankArambhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning Computer Engineering and Data Science.
 
-Here are some ideas to get you started:
+I like making projects while learning. (some of them are mentioned below)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [Multiplayer Game](https://github.com/MayankArambhi/multiplayer-game)
+A fun project made using FastAPI, PyGame and WebSockets where.
+Key features: Multiplayer, Chat, Respawn, JSON based client-server communication
+
+## [Car Explorer](https://github.com/MayankArambhi/car-explorer)
+
+[Demo](https://car-explorer.onrender.com/)
